@@ -1,0 +1,21 @@
+02/10/2021  09:18    <DIR>          .
+02/10/2021  09:18    <DIR>          ..
+02/10/2021  10:28    <DIR>          .eclipse
+11/10/2021  12:57    <DIR>          .VirtualBox
+02/10/2021  09:18    <DIR>          3D Objects
+02/10/2021  09:18    <DIR>          Contacts
+16/10/2021  12:42    <DIR>          Desktop
+02/10/2021  09:18    <DIR>          Documents
+16/10/2021  11:35    <DIR>          Downloads
+02/10/2021  09:18    <DIR>          Favorites
+02/10/2021  09:18    <DIR>          Links
+02/10/2021  09:18    <DIR>          Music
+23/09/2021  09:22    <DIR>          OneDrive
+02/10/2021  09:18    <DIR>          Pictures
+02/10/2021  09:18    <DIR>          Saved Games
+02/10/2021  09:18    <DIR>          Searches
+02/10/2021  09:18    <DIR>          Videos
+07/10/2021  09:19    <DIR>          VirtualBox VMs
+02/10/2021  10:28    <DIR>          workspace
+               0 File              0 byte
+              19 Directory  69.480.701.952 byte disponibili
